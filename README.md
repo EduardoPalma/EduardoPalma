@@ -1,6 +1,6 @@
 ## Hola, soy Eduardo Palma 👋
 
-Soy un desarrollador web y amante de la IA. Mi objetivo profesional es continuar expandiendo mis conocimientos y habilidades en el ámbito del desarrollo de software y la inteligencia artificial, contribuyendo a proyectos innovadores que tengan un impacto significativo. Estoy siempre abierto a nuevas oportunidades de colaboración y a conectar con profesionales de cualquier industria.
+Soy un desarrollador web y amante de la IA. Mi objetivo profesional es continuar expandiendo mis conocimientos y habilidades en estos dos ambitos de lo cual actualemente busco contribuir a proyectos innovadores que tengan un impacto significativo. Estoy siempre abierto a nuevas oportunidades de colaboración y a conectar con profesionales de cualquier industria.
 
  🔭 Estoy en planes de un proyecto de combinacion de alimentos segun precios de la temporada **Mediante Programacion Evolutiva**.
  
