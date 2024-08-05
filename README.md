@@ -27,7 +27,6 @@ Soy un desarrollador web y amante de la IA. Mi objetivo profesional es continuar
 <img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=.net&logoColor=white">
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white">
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white">
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white">
 
 ## Otros lenguajes de interes
 
