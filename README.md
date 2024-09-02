@@ -6,7 +6,7 @@ Soy un desarrollador web y amante de la IA. Mi objetivo profesional es continuar
  
  🌱 Estoy aprendiendo del mundo cloud☁️ en **Amazon Web Services**
  
- 🤔 Estoy buscando informacion y ayuda a traves de **Medium**, **Repositorios** y **Documentacion**
+ 🤔 Estoy buscando informacion y ayuda a traves de **Medium**, **Repositorios** y **Documentacion**.
  
  💬 Preguntame de lo que sea. Cualquier conocimiento e informacion es valiosa, estamos para aprender 👌
 
